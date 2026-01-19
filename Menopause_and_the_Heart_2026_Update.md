@@ -15,16 +15,11 @@ In the decade since our 2015 review, the landscape of menopausal hormone therapy
 
 ## INTRODUCTION
 
-When we published our initial review in 2015, the medical community remained deeply divided about hormone replacement therapy (HRT, now more commonly termed menopausal hormone therapy or MHT) and cardiovascular disease (CVD). The Women's Health Initiative (WHI) results from 2002 had cast a long shadow over hormone therapy, leading to widespread abandonment of MHT for postmenopausal women. However, even then, cracks were appearing in the prevailing narrative. Secondary analyses suggested that age and timing of initiation might fundamentally alter the risk-benefit calculus.
+Cardiovascular disease (CVD) remains the leading cause of mortality in postmenopausal women, with the menopausal transition representing a critical inflection point in cardiovascular risk trajectory.<sup>1,2</sup> The relationship between menopausal hormone therapy (MHT) and cardiovascular outcomes has been the subject of intense scientific debate since the publication of the Women's Health Initiative (WHI) trials in 2002-2004, which challenged the prevailing paradigm of hormone therapy as cardioprotective.<sup>3</sup> The subsequent dramatic decline in MHT prescribing reflected widespread interpretation of these findings as demonstrating uniform cardiovascular harm.
 
-The past decade has witnessed remarkable progress in our understanding of the complex relationship between menopause, hormone therapy, and cardiovascular health. Long-term follow-up studies, mechanistic research, and comprehensive meta-analyses have transformed our understanding of how timing, formulation, and individual risk factors influence cardiovascular outcomes with MHT.
+However, accumulating evidence over the past decade has substantially refined this understanding. Secondary analyses of the WHI data, stratified by age and time since menopause onset, revealed significant heterogeneity in cardiovascular outcomes, with younger women and those closer to menopause experiencing neutral or potentially favorable effects.<sup>4,5</sup> These observations gave rise to the "timing hypothesis," which posits that the cardiovascular effects of estrogen are critically dependent on the atherosclerotic burden at initiation of therapy—conferring benefit in the setting of healthy endothelium but potentially exacerbating risk in advanced atherosclerosis.<sup>6</sup>
 
-In this review, we examine the key developments of the past decade, including:
-- Validation and refinement of the timing hypothesis
-- Long-term follow-up data from major clinical trials
-- Development of risk-stratified approaches to MHT
-- The 2020 American Heart Association scientific statement on menopause and CVD
-- Contemporary, evidence-based clinical recommendations
+The intervening decade since our 2015 review has yielded substantial new evidence from long-term follow-up studies, mechanistic investigations, and comprehensive meta-analyses that have transformed the evidence base regarding MHT and cardiovascular risk. This review synthesizes these developments, with particular focus on: (1) validation and refinement of the timing hypothesis through extended trial follow-up and mechanistic studies; (2) risk stratification frameworks integrating traditional cardiovascular risk assessment with menopausal-specific factors; (3) comparative cardiovascular safety of contemporary formulations and routes of administration; (4) updated clinical practice guidelines from major professional societies; and (5) evidence-based recommendations for individualized MHT decision-making in the context of cardiovascular risk assessment.
 
 ---
 
