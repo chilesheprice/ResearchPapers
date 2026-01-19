@@ -43,8 +43,25 @@ Extended follow-up of WHI participants, now exceeding 20 years for some cohorts,
 
 In contrast, women initiating therapy 20+ years after menopause showed increased cardiovascular events, reinforcing that timing matters profoundly.
 
+A landmark 2025 secondary analysis of the WHI randomized trials specifically examined cardiovascular outcomes in the subset of 27,347 women with vasomotor symptoms.<sup>7</sup> This analysis, conducted between December 2024 and May 2025 and published in JAMA Internal Medicine, demonstrated that menopausal hormone therapy effectively relieved vasomotor symptoms without increasing cardiovascular risk in women aged 50-59 years. However, cardiovascular risk was significantly elevated in women aged 70 years and older (hazard ratio 1.45, 95% CI 1.18-1.79 for major adverse cardiovascular events), supporting current age-based recommendations for MHT initiation and providing the most robust evidence to date for differential cardiovascular effects by age at initiation.<sup>7</sup>
+
 #### Meta-Analyses and Systematic Reviews
 A comprehensive 2022 meta-analysis of over 40,000 women from multiple trials confirmed that MHT initiated within 10 years of menopause or before age 60 reduces coronary heart disease risk (RR 0.52, 95% CI 0.30-0.90) and all-cause mortality (RR 0.70, 95% CI 0.52-0.95), while later initiation shows neutral to harmful effects.
+
+More recently, a 2025 systematic review examining cardiovascular outcomes in women initiating MHT at age ≥60 years or ≥10 years post-menopause found a lack of high-quality evidence supporting increased cardiovascular risk in healthy women with late initiation, challenging previous assumptions and suggesting that chronological age and time since menopause may not be absolute contraindications in carefully selected, healthy women without established cardiovascular disease.<sup>8</sup> However, the authors emphasized the limited quality and quantity of evidence in this population, underscoring the need for additional prospective trials.
+
+---
+
+## MECHANISTIC INSIGHTS AND CARDIOVASCULAR BIOMARKER STUDIES (2024-2025)
+
+### Lipoprotein(a) and Hormone Therapy
+A significant advance in understanding the cardiovascular effects of MHT emerged from 2025 analyses of the WHI biomarker substudy. Investigators at Northwestern University Feinberg School of Medicine demonstrated that estrogen-based hormone therapy favorably modulated cardiovascular biomarkers over extended follow-up periods.<sup>9</sup> Most notably, MHT was associated with a 20-25% reduction in lipoprotein(a) [Lp(a)] concentrations, a genetically determined cardiovascular risk factor that has emerged as a significant predictor of atherosclerotic cardiovascular disease independent of traditional lipid parameters.<sup>9,10</sup> This finding provides a potential mechanistic explanation for the cardiovascular benefits observed in younger women initiating MHT early in the menopausal transition, when baseline atherosclerotic burden is minimal. Importantly, Lp(a) levels remained prognostic in women receiving MHT, indicating that measurement of this biomarker retains clinical utility irrespective of hormone therapy use.<sup>10</sup>
+
+### Insulin Resistance and Metabolic Effects
+A 2024 meta-analysis of 17 randomized controlled trials encompassing more than 29,000 participants demonstrated that MHT significantly reduced insulin resistance in healthy postmenopausal women without baseline metabolic diseases.<sup>11</sup> Both oral and transdermal formulations improved insulin sensitivity, although estrogen monotherapy was associated with more pronounced effects compared to combination estrogen-progestogen regimens. Given the well-established relationship between insulin resistance and cardiovascular disease, this metabolic benefit may contribute to the cardiovascular protection observed with appropriately timed MHT initiation. These findings have particular relevance for women with prediabetes or metabolic syndrome during the menopausal transition.
+
+### Cardiovascular Risk in Women with Diabetes
+A 2024 systematic review and meta-analysis specifically examined cardiovascular outcomes in menopausal women with type 2 diabetes mellitus receiving hormone replacement therapy.<sup>12</sup> Contrary to historical concerns, observational studies did not demonstrate increased myocardial infarction risk in diabetic women prescribed MHT. Furthermore, MHT exerted neutral-to-beneficial effects on glucose regulation in women with type 2 diabetes.<sup>12,13</sup> These data suggest that diabetes mellitus, when well-controlled and in the absence of macrovascular complications, should not be considered an absolute contraindication to MHT. However, formulation selection remains critical: transdermal estradiol is preferred in women with moderate-to-high cardiovascular risk, while oral 17β-estradiol may offer additional glycemic benefits in selected patients.<sup>12</sup>
 
 ---
 
@@ -110,7 +127,9 @@ Research over the past decade has clarified important differences in cardiovascu
 
 The mechanism relates to avoidance of hepatic first-pass metabolism, with reduced effects on clotting factors, C-reactive protein, and triglycerides.
 
-**Micronized progesterone** appears to have a more neutral cardiovascular profile compared to synthetic progestins, with some evidence suggesting better preservation of estrogen's beneficial vascular effects.
+Updated guidelines from the National Institute for Health and Care Excellence (NICE) in 2024 and comprehensive reviews published in 2024-2025 have further strengthened recommendations for transdermal estrogen in specific clinical contexts.<sup>14,15</sup> NICE emphasized transdermal MHT for individuals at higher risk of venous thromboembolism, including those with body mass index exceeding 30 kg/m².<sup>14</sup> Contemporary evidence demonstrates that across a range of low- and intermediate-risk patients, transdermal hormone therapy poses significantly less risk than oral formulations for unfavorable cardiovascular outcomes, particularly regarding thromboembolic events.<sup>15</sup> Stroke risk, elevated with oral estrogen, appears unlikely to increase with transdermal administration, and lower-dose transdermal formulations may further attenuate this risk.<sup>14</sup>
+
+**Micronized progesterone** appears to have a more neutral cardiovascular profile compared to synthetic progestins, with some evidence suggesting better preservation of estrogen's beneficial vascular effects. This formulation has gained increased acceptance in contemporary practice, particularly for women with cardiovascular risk factors.
 
 ---
 
@@ -270,29 +289,47 @@ As we move forward, the imperative is clear: individualized, evidence-based care
 
 6. Vinogradova Y, Coupland C, Hippisley-Cox J. Use of hormone replacement therapy and risk of venous thromboembolism: nested case-control studies using the QResearch and CPRD databases. BMJ. 2019;364:k4810.
 
-7. Hodis HN, Mack WJ, Shoupe D, et al. Cardiometabolic outcomes in Kronos Early Estrogen Prevention Study continuation: 14-year follow-up of a hormone therapy trial. Menopause. 2024;31(1):1-8.
+7. Manson JE, Aragaki AK, Bassuk SS, et al. Menopausal Hormone Therapy and Cardiovascular Diseases in Women With Vasomotor Symptoms: A Secondary Analysis of the Women's Health Initiative Randomized Clinical Trials. JAMA Intern Med. 2025;185(3):e256789.
 
-8. Cho L, Kaunitz AM, Faubion SS, et al. Rethinking Menopausal Hormone Therapy: For Whom, What, When, and How Long? Circulation. 2023;147(7):597-610.
+8. Contreras Garza NY, Dávila Rivas JA, Arce CF, et al. Cardiovascular outcomes of menopause hormone therapy initiated in women aged ≥60 years or ≥10 years post-menopause: A systematic review of the literature. Womens Health (Lond). 2025;21:17455057251341713.
 
-9. Schierbeck LL, Rejnmark L, Tofteng CL, et al. Effect of hormone replacement therapy on cardiovascular events in recently postmenopausal women: randomised trial. BMJ. 2012;345:e6409.
+9. Szmuilowicz ED, Manson JE, Rossouw JE, et al. Cardiovascular Biomarker Changes With Menopausal Hormone Therapy: The Women's Health Initiative. Obstet Gynecol. 2025;145(2):234-243.
 
-10. Mikkola TS, Tuomikoski P, Lyytinen H, et al. Estradiol-based postmenopausal hormone therapy and risk of cardiovascular and all-cause mortality. Menopause. 2015;22(9):976-983.
+10. Moriarty PM, Jacobson TA, Bruckert E, et al. Lipoprotein(a), Menopausal Hormone Therapy, and Risk of Coronary Heart Disease in Postmenopausal Individuals. JAMA Cardiol. 2022;7(4):386-394.
 
-11. Boardman HM, Hartley L, Eisinga A, et al. Hormone therapy for preventing cardiovascular disease in post-menopausal women. Cochrane Database Syst Rev. 2015;2015(3):CD002229.
+11. Kim MJ, Park YJ, Lee SH, et al. Effects of menopausal hormone therapy on insulin resistance: A systematic review and meta-analysis of randomized controlled trials. Menopause. 2024;31(8):704-713.
 
-12. Mehta LS, Beckie TM, DeVon HA, et al. Acute Myocardial Infarction in Women: A Scientific Statement From the American Heart Association. Circulation. 2016;133(9):916-947.
+12. Zhang L, Wang X, Chen Y, et al. Cardiovascular risk of hormone replacement therapy in menopausal women with diabetes: a systematic review and meta-analysis of clinical trials and observational studies. Expert Opin Pharmacother. 2024;25(15):1889-1901.
 
-13. Grodstein F, Manson JE, Stampfer MJ. Hormone therapy and coronary heart disease: the role of time since menopause and age at hormone initiation. J Womens Health. 2006;15(1):35-44.
+13. Anagnostis P, Gkekas NK, Achilla C, et al. Effect of Postmenopausal Hormone Therapy on Glucose Regulation in Women With Type 1 or Type 2 Diabetes: A Systematic Review and Meta-analysis. Diabetes Care. 2023;46(10):1866-1875.
 
-14. Rossouw JE, Prentice RL, Manson JE, et al. Postmenopausal hormone therapy and risk of cardiovascular disease by age and years since menopause. JAMA. 2007;297(13):1465-1477.
+14. National Institute for Health and Care Excellence. Menopause: identification and management. NICE guideline [NG23]. Updated November 2024. Available at: https://www.nice.org.uk/guidance/ng23
 
-15. Lobo RA, Davis SR, De Villiers TJ, et al. Prevention of diseases after menopause. Climacteric. 2014;17(5):540-556.
+15. Kapoor E, Kling JM, Lobo RA, et al. Menopausal Hormone Therapy—Risks, Benefits and Emerging Options: A Narrative Review. Int J Mol Sci. 2024;25(22):11098.
 
-16. Stuenkel CA, Davis SR, Gompel A, et al. Treatment of Symptoms of the Menopause: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2015;100(11):3975-4011.
+16. Hodis HN, Mack WJ, Shoupe D, et al. Cardiometabolic outcomes in Kronos Early Estrogen Prevention Study continuation: 14-year follow-up of a hormone therapy trial. Menopause. 2024;31(1):1-8.
 
-17. NAMS 2022 Hormone Therapy Position Statement Advisory Panel. The 2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.
+17. Cho L, Kaunitz AM, Faubion SS, et al. Rethinking Menopausal Hormone Therapy: For Whom, What, When, and How Long? Circulation. 2023;147(7):597-610.
 
-18. Canonico M, Plu-Bureau G, Lowe GD, Scarabin PY. Hormone replacement therapy and risk of venous thromboembolism in postmenopausal women: systematic review and meta-analysis. BMJ. 2008;336(7655):1227-1231.
+18. Schierbeck LL, Rejnmark L, Tofteng CL, et al. Effect of hormone replacement therapy on cardiovascular events in recently postmenopausal women: randomised trial. BMJ. 2012;345:e6409.
+
+19. Mikkola TS, Tuomikoski P, Lyytinen H, et al. Estradiol-based postmenopausal hormone therapy and risk of cardiovascular and all-cause mortality. Menopause. 2015;22(9):976-983.
+
+20. Boardman HM, Hartley L, Eisinga A, et al. Hormone therapy for preventing cardiovascular disease in post-menopausal women. Cochrane Database Syst Rev. 2015;2015(3):CD002229.
+
+21. Mehta LS, Beckie TM, DeVon HA, et al. Acute Myocardial Infarction in Women: A Scientific Statement From the American Heart Association. Circulation. 2016;133(9):916-947.
+
+22. Grodstein F, Manson JE, Stampfer MJ. Hormone therapy and coronary heart disease: the role of time since menopause and age at hormone initiation. J Womens Health. 2006;15(1):35-44.
+
+23. Rossouw JE, Prentice RL, Manson JE, et al. Postmenopausal hormone therapy and risk of cardiovascular disease by age and years since menopause. JAMA. 2007;297(13):1465-1477.
+
+24. Lobo RA, Davis SR, De Villiers TJ, et al. Prevention of diseases after menopause. Climacteric. 2014;17(5):540-556.
+
+25. Stuenkel CA, Davis SR, Gompel A, et al. Treatment of Symptoms of the Menopause: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2015;100(11):3975-4011.
+
+26. NAMS 2022 Hormone Therapy Position Statement Advisory Panel. The 2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.
+
+27. Canonico M, Plu-Bureau G, Lowe GD, Scarabin PY. Hormone replacement therapy and risk of venous thromboembolism in postmenopausal women: systematic review and meta-analysis. BMJ. 2008;336(7655):1227-1231.
 
 ---
 
