@@ -7,9 +7,9 @@
 
 ## ABSTRACT
 
-In the decade since our 2015 review, the landscape of menopausal hormone therapy (MHT) and cardiovascular disease has undergone a dramatic transformation. The "timing hypothesis" has evolved from a speculative concept to an evidence-based clinical framework, supported by long-term follow-up studies, advanced imaging trials, and comprehensive meta-analyses. Most notably, in November 2025, the U.S. Food and Drug Administration removed the black box warnings from hormone therapy products, marking a paradigm shift in how we approach menopausal symptom management and cardiovascular risk. This update reviews the accumulating evidence from 2015-2026, examines the scientific basis for the FDA's historic decision, and provides contemporary evidence-based recommendations for clinicians managing menopausal women with cardiovascular considerations.
+In the decade since our 2015 review, the landscape of menopausal hormone therapy (MHT) and cardiovascular disease has undergone a dramatic transformation. The "timing hypothesis" has evolved from a speculative concept to an evidence-based clinical framework, supported by long-term follow-up studies, advanced imaging trials, and comprehensive meta-analyses. This update reviews the accumulating evidence from 2015-2026 and provides contemporary evidence-based recommendations for clinicians managing menopausal women with cardiovascular considerations.
 
-**Keywords:** Menopause • Hormone replacement therapy • Cardiovascular disease • Timing hypothesis • FDA black box warning • Women's health
+**Keywords:** Menopause • Hormone replacement therapy • Cardiovascular disease • Timing hypothesis • Women's health
 
 ---
 
@@ -17,14 +17,13 @@ In the decade since our 2015 review, the landscape of menopausal hormone therapy
 
 When we published our initial review in 2015, the medical community remained deeply divided about hormone replacement therapy (HRT, now more commonly termed menopausal hormone therapy or MHT) and cardiovascular disease (CVD). The Women's Health Initiative (WHI) results from 2002 had cast a long shadow over hormone therapy, leading to widespread abandonment of MHT for postmenopausal women. However, even then, cracks were appearing in the prevailing narrative. Secondary analyses suggested that age and timing of initiation might fundamentally alter the risk-benefit calculus.
 
-The past decade has witnessed remarkable progress in our understanding of the complex relationship between menopause, hormone therapy, and cardiovascular health. This progress culminated in a landmark decision by the U.S. Food and Drug Administration (FDA) in November 2025 to remove black box warnings from menopausal hormone therapy products—a decision that reflects the maturation of our scientific understanding and has profound implications for women's health.
+The past decade has witnessed remarkable progress in our understanding of the complex relationship between menopause, hormone therapy, and cardiovascular health. Long-term follow-up studies, mechanistic research, and comprehensive meta-analyses have transformed our understanding of how timing, formulation, and individual risk factors influence cardiovascular outcomes with MHT.
 
 In this review, we examine the key developments of the past decade, including:
 - Validation and refinement of the timing hypothesis
 - Long-term follow-up data from major clinical trials
 - Development of risk-stratified approaches to MHT
 - The 2020 American Heart Association scientific statement on menopause and CVD
-- The FDA's 2025 decision and its scientific rationale
 - Contemporary, evidence-based clinical recommendations
 
 ---
@@ -120,59 +119,9 @@ The mechanism relates to avoidance of hepatic first-pass metabolism, with reduce
 
 ---
 
-## THE FDA'S HISTORIC DECISION: NOVEMBER 2025
-
-### Background and Context
-
-For more than two decades, menopausal hormone therapy products carried prominent black box warnings—the FDA's strongest safety alert—cautioning about increased risks of cardiovascular disease, breast cancer, stroke, and dementia. These warnings, instituted following the initial WHI results in 2002-2004, profoundly influenced clinical practice, leading to an estimated 66% decline in MHT prescriptions and leaving millions of women suffering with untreated menopausal symptoms.
-
-### The Expert Panel and Review Process
-
-On July 17, 2025, the FDA convened an expert panel to review the totality of evidence regarding MHT and cardiovascular risk. The panel examined:
-- Long-term follow-up data from WHI, KEEPS, ELITE, and other trials
-- Age-stratified and time-since-menopause analyses
-- Real-world observational data from multiple countries
-- Mechanistic studies of estrogen's vascular effects
-- Contemporary prescribing patterns and formulations
-
-Following the expert panel's recommendations and a public comment period, the FDA announced on November 10, 2025, its decision to remove black box warnings from all hormone therapy products.
-
-### What Changed
-
-The FDA is working with pharmaceutical companies to update labeling for four product classes:
-1. Combined estrogen-progestogen products
-2. Estrogen-alone products
-3. Other estrogen-containing products
-4. Progestogen-only products
-
-**Key changes include:**
-- Removal of black box warnings for cardiovascular disease, stroke, and dementia
-- **Retention** of the boxed warning for endometrial cancer risk with unopposed estrogen (for women with intact uteri)
-- Addition of **age-specific guidance** indicating that women may benefit from MHT when initiated within 10 years of menopause onset or before age 60
-- Updated contraindications focusing on absolute rather than relative risks
-- Clear differentiation between primary prevention (appropriate for some women) and use in those with established CVD (not recommended)
-
-### Scientific Rationale
-
-The FDA based its decision on several key findings:
-
-1. **The original WHI warnings were based on a population with mean age 63 years**, not representative of typical MHT users
-2. **Subsequent analyses demonstrated age-dependent effects**, with younger women showing benefit or neutral outcomes
-3. **Absolute risk increases in the WHI were small** even in the older population
-4. **The warnings had led to undertreatment** of severe menopausal symptoms, with negative impacts on quality of life
-5. **Modern prescribing practices** emphasize transdermal formulations, lower doses, and bioidentical hormones with potentially better safety profiles
-
-The FDA acknowledged that the black box warnings, while well-intentioned, had created a "chilling effect" that went beyond the evidence and prevented appropriate, individualized decision-making.
-
-### Implementation Timeline
-
-The label changes are expected to be implemented within six months of the November 2025 announcement, with updated prescribing information available by spring 2026.
-
----
-
 ## CONTEMPORARY EVIDENCE-BASED RECOMMENDATIONS (2026)
 
-Based on the accumulated evidence of the past decade and the FDA's recent decision, we offer the following updated recommendations:
+Based on the accumulated evidence of the past decade, we offer the following updated recommendations:
 
 ### For Symptomatic Women Within 10 Years of Menopause or <60 Years Old
 
@@ -210,7 +159,6 @@ Do **not** initiate MHT solely for symptom management in this population without
 
 ### Absolute Contraindications to MHT
 
-Consistent with updated FDA guidance:
 - Established cardiovascular disease (prior MI, stroke, TIA, revascularization)
 - Active or history of VTE (DVT, PE) or known thrombophilia
 - Active liver disease
@@ -280,8 +228,6 @@ Several key principles have emerged:
 
 5. **Symptom burden matters:** Severe vasomotor symptoms are not merely quality-of-life issues; they are associated with cardiovascular risk and justify treatment.
 
-The FDA's November 2025 decision to remove black box warnings represents official recognition of these principles and should enable more women to access appropriate symptom management without unwarranted fear.
-
 ---
 
 ## CLINICAL CASE SCENARIOS
@@ -294,20 +240,20 @@ A 52-year-old woman presents 18 months after her last menstrual period with seve
 **Recommendation:** This is an ideal candidate for MHT. Offer transdermal estradiol 0.05 mg/day with micronized progesterone 200 mg nightly. Counsel regarding expected benefits, minimal cardiovascular risk at her age and timing, and plan for annual reassessment. No arbitrary time limit; continue as long as benefits persist.
 
 ### Case 2: The Woman Remote from Menopause with Persistent Symptoms
-A 64-year-old woman, 16 years post-menopause, presents with bothersome hot flashes that have never fully resolved. She was afraid to try MHT due to the old black box warnings. Medical history includes well-controlled hypertension (125/78 on one medication), BMI 28, LDL 115 mg/dL, no diabetes. She requests MHT now that the warnings have been removed.
+A 64-year-old woman, 16 years post-menopause, presents with bothersome hot flashes that have never fully resolved. She avoided MHT in the past due to concerns about cardiovascular risk. Medical history includes well-controlled hypertension (125/78 on one medication), BMI 28, LDL 115 mg/dL, no diabetes. She inquires about MHT options.
 
 **Recommendation:** This requires careful individualized assessment. Calculate 10-year ASCVD risk (likely 5-10% range = low-intermediate risk). If available, obtain CAC score. If CAC <100 and she understands the limitations of evidence in her age group, shared decision-making may support a trial of low-dose transdermal estradiol (0.025 mg/day) with micronized progesterone. Emphasize aggressive risk factor management. Consider non-hormonal alternatives as well (fezolinetant, paroxetine, gabapentin). If she develops cardiovascular disease or risk factors worsen, discontinue MHT.
 
 ### Case 3: The Woman with Established CVD
-A 58-year-old woman, 6 years post-menopause, had a non-ST-elevation myocardial infarction 2 years ago, now with stents in place, on dual antiplatelet therapy, statin, and beta-blocker. She has severe vasomotor symptoms significantly impacting quality of life. She asks about MHT now that the "warnings are gone."
+A 58-year-old woman, 6 years post-menopause, had a non-ST-elevation myocardial infarction 2 years ago, now with stents in place, on dual antiplatelet therapy, statin, and beta-blocker. She has severe vasomotor symptoms significantly impacting quality of life and inquires about MHT options.
 
-**Recommendation:** MHT remains **contraindicated** in established CVD regardless of the FDA label change. The removal of black box warnings does not mean MHT is safe for everyone; it means the warnings were overly broad for the general population. For this patient, recommend non-hormonal approaches: fezolinetant (neurokinin-3 receptor antagonist), paroxetine, gabapentin, cognitive-behavioral therapy, and lifestyle modifications. Optimize her cardiovascular medications and risk factors.
+**Recommendation:** MHT remains **contraindicated** in established CVD. Despite the accumulated evidence supporting safety in appropriately selected women, patients with prior cardiovascular events remain at unacceptably high risk with MHT. For this patient, recommend non-hormonal approaches: fezolinetant (neurokinin-3 receptor antagonist), paroxetine, gabapentin, cognitive-behavioral therapy, and lifestyle modifications. Optimize her cardiovascular medications and risk factors.
 
 ---
 
 ## CONCLUSION
 
-Ten years after our initial review, we can state with confidence: the relationship between menopause, hormone therapy, and cardiovascular disease is complex, nuanced, and critically dependent on timing. The "timing hypothesis" has evolved from speculation to established clinical framework. The FDA's November 2025 decision to remove black box warnings from hormone therapy products represents the culmination of two decades of research refining our understanding and marks a new era in women's midlife health care.
+Ten years after our initial review, we can state with confidence: the relationship between menopause, hormone therapy, and cardiovascular disease is complex, nuanced, and critically dependent on timing. The "timing hypothesis" has evolved from speculation to established clinical framework, validated by long-term follow-up studies, comprehensive meta-analyses, and mechanistic research. This represents the culmination of two decades of research refining our understanding and marks a new era in women's midlife health care.
 
 For women within 10 years of menopause or under age 60 without contraindications, MHT remains the most effective treatment for moderate-to-severe vasomotor symptoms and does not increase—and may reduce—cardiovascular risk. For women remote from menopause or with established cardiovascular disease, MHT is generally not appropriate, and alternative symptom management should be pursued.
 
@@ -337,25 +283,21 @@ As we move forward, the imperative is clear: individualized, evidence-based care
 
 10. Mikkola TS, Tuomikoski P, Lyytinen H, et al. Estradiol-based postmenopausal hormone therapy and risk of cardiovascular and all-cause mortality. Menopause. 2015;22(9):976-983.
 
-11. U.S. Food and Drug Administration. HHS Advances Women's Health, Removes Misleading FDA Warnings on Hormone Replacement Therapy. Press release. November 10, 2025.
+11. Boardman HM, Hartley L, Eisinga A, et al. Hormone therapy for preventing cardiovascular disease in post-menopausal women. Cochrane Database Syst Rev. 2015;2015(3):CD002229.
 
-12. U.S. Department of Health and Human Services. FACT SHEET: FDA Initiates Removal of "Black Box" Warnings from Menopausal Hormone Replacement Therapy Products. November 10, 2025.
+12. Mehta LS, Beckie TM, DeVon HA, et al. Acute Myocardial Infarction in Women: A Scientific Statement From the American Heart Association. Circulation. 2016;133(9):916-947.
 
-13. Boardman HM, Hartley L, Eisinga A, et al. Hormone therapy for preventing cardiovascular disease in post-menopausal women. Cochrane Database Syst Rev. 2015;2015(3):CD002229.
+13. Grodstein F, Manson JE, Stampfer MJ. Hormone therapy and coronary heart disease: the role of time since menopause and age at hormone initiation. J Womens Health. 2006;15(1):35-44.
 
-14. Mehta LS, Beckie TM, DeVon HA, et al. Acute Myocardial Infarction in Women: A Scientific Statement From the American Heart Association. Circulation. 2016;133(9):916-947.
+14. Rossouw JE, Prentice RL, Manson JE, et al. Postmenopausal hormone therapy and risk of cardiovascular disease by age and years since menopause. JAMA. 2007;297(13):1465-1477.
 
-15. Grodstein F, Manson JE, Stampfer MJ. Hormone therapy and coronary heart disease: the role of time since menopause and age at hormone initiation. J Womens Health. 2006;15(1):35-44.
+15. Lobo RA, Davis SR, De Villiers TJ, et al. Prevention of diseases after menopause. Climacteric. 2014;17(5):540-556.
 
-16. Rossouw JE, Prentice RL, Manson JE, et al. Postmenopausal hormone therapy and risk of cardiovascular disease by age and years since menopause. JAMA. 2007;297(13):1465-1477.
+16. Stuenkel CA, Davis SR, Gompel A, et al. Treatment of Symptoms of the Menopause: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2015;100(11):3975-4011.
 
-17. Lobo RA, Davis SR, De Villiers TJ, et al. Prevention of diseases after menopause. Climacteric. 2014;17(5):540-556.
+17. NAMS 2022 Hormone Therapy Position Statement Advisory Panel. The 2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.
 
-18. Stuenkel CA, Davis SR, Gompel A, et al. Treatment of Symptoms of the Menopause: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2015;100(11):3975-4011.
-
-19. NAMS 2022 Hormone Therapy Position Statement Advisory Panel. The 2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.
-
-20. Canonico M, Plu-Bureau G, Lowe GD, Scarabin PY. Hormone replacement therapy and risk of venous thromboembolism in postmenopausal women: systematic review and meta-analysis. BMJ. 2008;336(7655):1227-1231.
+18. Canonico M, Plu-Bureau G, Lowe GD, Scarabin PY. Hormone replacement therapy and risk of venous thromboembolism in postmenopausal women: systematic review and meta-analysis. BMJ. 2008;336(7655):1227-1231.
 
 ---
 
@@ -373,4 +315,4 @@ Philadelphia, PA
 
 ---
 
-*This manuscript represents an update and expansion of the original 2015 publication "Menopause and the Heart" (Endocrinol Metab Clin N Am. 2015;44(3):559-564) incorporating the scientific developments and clinical guideline changes of the intervening decade, with particular emphasis on the FDA's November 2025 decision to remove black box warnings from menopausal hormone therapy products.*
+*This manuscript represents an update and expansion of the original 2015 publication "Menopause and the Heart" (Endocrinol Metab Clin N Am. 2015;44(3):559-564) incorporating the scientific developments and clinical guideline changes of the intervening decade.*
